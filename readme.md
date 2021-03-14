@@ -5,7 +5,7 @@
 ## Eslatmalar
 
 **Xinux | Mirror Qo'llanmasi** Quyidagi repozitoriya **Xeonix Linux** distributi 
-uchun paketlar menejirining bir manbasi sifatida hizmat qiladi. Bu repozitoriyada
+uchun paketlar menejirining bir manbasi sifatida xizmat qiladi. Bu repozitoriyada
 shaxsan hamma shaxsiy va aynan **Xeonix Linux** Operatsion Tizimi uchun yaratilgan
 dastur va paketlar saqlanadi va ulashiladi!
 
